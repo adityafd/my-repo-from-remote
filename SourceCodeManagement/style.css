@@ -17,7 +17,7 @@ body {
   
  #icon-image{
     width: 100%;
-    height: auto;
+    height: 300px;
  }
   
  #profile-name{
@@ -42,4 +42,8 @@ body {
     background-color: burlywood;
     text-align: center;
     color: white;
+ }
+
+ #profile-job {
+    text-align: center;
  }
